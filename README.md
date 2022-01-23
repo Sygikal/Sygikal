@@ -1,3 +1,3 @@
 # Hello
 
-I make java programs
+I like things
